@@ -11,7 +11,11 @@ class sum{
         int f =90;
        
         system.out.println("sum="+ sum);
+<<<<<<< HEAD
                 system.out.print("sum="+ sum);
 
+=======
+        system.out.println("*********************");
+>>>>>>> 43052ea59db062d1c07f5e5a78fe812cdb20abf7
     }
 }
