@@ -7,6 +7,8 @@ class sum{
         int c=20;
         int d=30;
         //uncommand;
+        int d=24;
+        int f =90;
         system.out.println("sum="+ sum);
         
     }
