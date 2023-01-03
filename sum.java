@@ -11,6 +11,6 @@ class sum{
         int f =90;
        
         system.out.println("sum="+ sum);
-        
+        system.out.println("*********************");
     }
 }
