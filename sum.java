@@ -9,6 +9,7 @@ class sum{
         //uncommand;
         int d=24;
         int f =90;
+       
         system.out.println("sum="+ sum);
                 system.out.print("sum="+ sum);
 
